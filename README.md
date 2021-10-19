@@ -30,5 +30,5 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-
-link to video: https://watch.screencastify.com/v/VmBpeAn6zW5Rv7gLSIwj
+#https://abbasiafnan9.github.io/Team-Profile-Generator/
+#link to video: https://watch.screencastify.com/v/VmBpeAn6zW5Rv7gLSIwj
